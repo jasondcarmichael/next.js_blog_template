@@ -37,3 +37,11 @@ button {
   padding: 0.5rem 1rem;
   font-weight: bold;
 }
+
+p, ul {
+  margin-bottom: 20px;
+}
+
+#time {
+  margin-bottom: 20px;
+}
